@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bird Memory</string>
+    <string name="nameTextView">Fågelmemory</string>
+
+    <string name="playButton">Spela</string>
+    <string name="scoreTextView">Poäng: </string>
+
+    <string name="blackBird">Koltrast</string>
+    <string name="bullFinch">Domherre</string>
+    <string name="houseSparrow">Gråsparv</string>
+    <string name="mallard">Gräsand</string>
+    <string name="peacock">Påfågel</string>
+    <string name="pheasant">Fasan</string>
+    <string name="robin">Rödhake</string>
+    <string name="tuftedDuck">Vigg</string>
+
+    <string name="winTitle">Grattis!</string>
+    <string name="winMessage">Din poäng var</string>
+    <string name="winButton">OK</string>
+</resources>

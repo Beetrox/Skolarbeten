@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bird Memory</string>
+    <string name="nameTextView">Bird Memory</string>
+
+    <string name="playButton">Play</string>
+    <string name="scoreTextView">Score: </string>
+
+    <string name="blackBird">Blackbird</string>
+    <string name="bullFinch">Bullfinch</string>
+    <string name="houseSparrow">House sparrow</string>
+    <string name="mallard">Mallard</string>
+    <string name="peacock">Peacock</string>
+    <string name="pheasant">Pheasant</string>
+    <string name="robin">Robin</string>
+    <string name="tuftedDuck">Tufted duck</string>
+
+    <string name="winTitle">Congratulations!</string>
+    <string name="winMessage">Your score was</string>
+    <string name="winButton">OK</string>
+</resources>
